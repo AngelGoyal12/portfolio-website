@@ -36,7 +36,7 @@ portfolio-website/
 ```bash
 pip install -r requirements.txt
 python app.py
-
+```
 
 📌 Note
 This project is part of my learning journey and will be improved over time.
